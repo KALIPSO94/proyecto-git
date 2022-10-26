@@ -1,0 +1,20 @@
+h1 {
+    font: size 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: italic;
+    text-decoration: underline;color: brown; 
+    text-transform: uppercase;
+    letter-spacing: 30px;
+    color: rgb(0, 255, 98);
+    }
+    p{  font: size 80px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 900;
+        font-style: italic;
+        text-decoration: underline;color:red ; 
+        text-transform: uppercase;
+        letter-spacing: 30px;
+        color: rgb(0, 255, 98);
+
+    }
